@@ -4,7 +4,7 @@
     'author' : 'David setiyadi',
     'license': 'GPL-3',
     'category' : 'Custom',
-    'website' : 'https://davidsetiyadi.github.io',
+    'website' : 'https://github.com/davidsetiyadi',
     'summary': 'Check WARNING before installing \ uninstalling!',
     'depends' : ['hr','hr_webcam'],
     'data':[],
